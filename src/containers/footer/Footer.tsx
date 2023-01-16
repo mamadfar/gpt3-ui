@@ -1,5 +1,5 @@
 import "./footer.scss";
-import GPT3Logo from "../../assets/images/logo.svg"
+import GPT3Logo from "../../assets/img/logo.svg"
 
 const Footer = () => {
     return (

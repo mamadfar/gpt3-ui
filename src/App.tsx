@@ -1,7 +1,7 @@
 import React from 'react';
+import './App.scss';
 import {Footer, Blog, Possibility, Features, WhatGPT3, Header} from "./containers";
 import {Brand, CTA, Navbar} from "./components";
-import './App.scss';
 
 function App() {
     return (

@@ -1,6 +1,6 @@
 import "./header.scss";
-import People from "../../assets/images/people.png";
-import AI from "../../assets/images/ai.png";
+import People from "../../assets/img/people.png";
+import AI from "../../assets/img/ai.png";
 
 const Header = () => {
     return (
