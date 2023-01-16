@@ -1,0 +1,53 @@
+
+.gpt3__blog-container_article {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--color-footer);
+
+  &-image {
+	width: 100%;
+	height: 100%;
+	background: var(--color-footer);
+
+	& img {
+	  width: 100%;
+	  height: 100%;
+	}
+  }
+
+  &-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 1rem 1.5rem;
+	height: 100%;
+
+	& p {
+	  font-family: var(--font-family);
+	  font-weight: bold;
+	  font-size: 12px;
+	  line-height: 35px;
+	  color: #ffffff;
+
+	  &:last-child {
+		cursor: pointer;
+	  }
+	}
+
+	& h3 {
+	  font-family: var(--font-family);
+	  font-weight: 800;
+	  font-size: 25px;
+	  line-height: 30px;
+	  color: #ffffff;
+	  margin-bottom: 5rem;
+	  cursor: pointer;
+	  @media screen and (max-width: 550px) {
+		font-size: 18px;
+		line-height: 25px;
+	  }
+	}
+  }
+}
