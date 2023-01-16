@@ -33,7 +33,7 @@ a {
 
   &__text {
 	background: var(--gradient-text);
-	background-clip: text;
+	background-clip: inherit;
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
   }
@@ -56,22 +56,22 @@ a {
 
 @-webkit-keyframes scale-up-center {
   0% {
-	-webkit-transform: scale(0.5);
+	//-webkit-transform: scale(0.5);
 	transform: scale(0.5);
   }
   100% {
-	-webkit-transform: scale(1);
+	//-webkit-transform: scale(1);
 	transform: scale(1);
   }
 }
 
 @keyframes scale-up-center {
   0% {
-	-webkit-transform: scale(0.5);
+	//-webkit-transform: scale(0.5);
 	transform: scale(0.5);
   }
   100% {
-	-webkit-transform: scale(1);
+	//-webkit-transform: scale(1);
 	transform: scale(1);
   }
 }
