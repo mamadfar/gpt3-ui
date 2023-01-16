@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gp3-ui/static/css/main.1ed2de03.css",
+    "main.js": "/gp3-ui/static/js/main.bc3dff3f.js",
+    "static/js/787.a5d519fc.chunk.js": "/gp3-ui/static/js/787.a5d519fc.chunk.js",
+    "static/media/ai.png": "/gp3-ui/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/gp3-ui/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/gp3-ui/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/gp3-ui/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/gp3-ui/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/gp3-ui/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/gp3-ui/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/gp3-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/gp3-ui/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/gp3-ui/index.html",
+    "main.1ed2de03.css.map": "/gp3-ui/static/css/main.1ed2de03.css.map",
+    "main.bc3dff3f.js.map": "/gp3-ui/static/js/main.bc3dff3f.js.map",
+    "787.a5d519fc.chunk.js.map": "/gp3-ui/static/js/787.a5d519fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed2de03.css",
+    "static/js/main.bc3dff3f.js"
+  ]
+}
