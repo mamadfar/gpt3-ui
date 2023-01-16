@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mamadfar.github.io/gp3-ui/",
-  "name": "gp3-ui",
+  "homepage": "https://mamadfar.github.io/gpt3-ui/",
+  "name": "gpt3-ui",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
